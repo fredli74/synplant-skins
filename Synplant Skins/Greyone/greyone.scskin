@@ -1,8 +1,8 @@
 SynplantSkin: {
     format: 1
     name: "Greyone"
-    version: "0.8"
+    version: "1.0"
     by: "Lars-Erik J"
     url: "https://l4rs3rik.github.io/"
-    thumbnail: "greyone"
+    thumbnail: "thumbnail"
 }
