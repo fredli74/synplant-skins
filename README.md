@@ -11,6 +11,16 @@ Skins should be placed in a folder called `Synplant Skins` next to the scripts f
 
 Tip: right-click the SkinChooser window to open a menu where you can refresh the skin choices and easily access the skins folder.
 
+Skin Previews
+-------------
+<p align="center">
+  <img src="Synplant%20Skins/Orchard/thumbnail.png" alt="Orchard" width="200" />
+  <img src="Synplant%20Skins/Greyone/thumbnail.png" alt="Greyone" width="200" />
+  <img src="Synplant%20Skins/Nightshift/Nightshift.png" alt="Nightshift" width="200" />
+  <img src="Synplant%20Skins/factory/factory.png" alt="Factory" width="200" />
+</p>
+
+
 
 Image formats
 -------------
